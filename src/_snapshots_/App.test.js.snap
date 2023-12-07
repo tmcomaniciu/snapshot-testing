@@ -24,12 +24,12 @@ exports[`renders a snapshot 1`] = `
       <div
         className="card-title h5"
       >
-        Megan Lake
+        Tudor Comaniciu
       </div>
       <p
         className="card-text"
       >
-        She likes music and harry potter.
+        Likes and Dislikes:
       </p>
       <button
         className="btn btn-primary"
